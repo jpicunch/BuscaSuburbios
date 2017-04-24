@@ -1,2 +1,1 @@
-# APP Completa
-
+Aplaicación para buscar pub's de la ciudad de Chillán. 
